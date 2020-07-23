@@ -1,0 +1,81 @@
+Data...:23/07/2020
+Produto Quantidade Valor
+Pen 	1	50.0	 
+Pen 	5	275.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+item	0	0.0	 
+SSD		0	0.0	 
+item	0	0.0	 
+item	0	0.0	 
+venda realizada por cliente:
+Cliente [Cliente Zero] id='1' nome='Pen ' preço='50.0' quant='99' capacidade='512' unidade='GB'
+Cliente [Cliente Zero] id='2' nome='Pen ' preço='55.0' quant='100' capacidade='512' unidade='GB'
+Cliente [Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Cliente [Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Cliente [Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Cliente [Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Valor médio por Cliente.......162.5
+Menor valor gasto.............105.0
+Maior valor gasto.............220.0
+Quantidade de clientes que desistiram de comprar no mercado.......0
+Data...:23/07/2020
+Produto Quantidade Valor
+Pen 	1	50.0	 
+Pen 	5	275.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+item	0	0.0	 
+SSD	0	0.0	 
+item	0	0.0	 
+item	0	0.0	 
+venda realizada por cliente:
+Cliente [Cliente Zero] id='1' nome='Pen ' preço='50.0' quant='99' capacidade='512' unidade='GB'
+Cliente [Cliente Zero] id='2' nome='Pen ' preço='55.0' quant='100' capacidade='512' unidade='GB'
+Cliente [Cliente Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Cliente [Cliente Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Cliente [Cliente Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Cliente [Cliente Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Valor médio por Cliente.......162.5
+Menor valor gasto.............105.0
+Maior valor gasto.............220.0
+Quantidade de clientes que desistiram de comprar no mercado.......0
+Data...:23/07/2020
+Produto Quantidade Valor
+Pen 	1	50.0	 
+Pen 	5	275.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+Pen 	0	0.0	 
+item	0	0.0	 
+SSD	0	0.0	 
+item	0	0.0	 
+item	0	0.0	 
+venda realizada por cliente:
+Cliente [Cliente Zero] id='1' nome='Pen ' preço='50.0' quant='99' capacidade='512' unidade='GB'
+Cliente [Cliente Zero] id='2' nome='Pen ' preço='55.0' quant='100' capacidade='512' unidade='GB'
+Cliente [Cliente Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Cliente [Cliente Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Cliente [Cliente Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Cliente [Cliente Um] id='2' nome='Pen ' preço='55.0' quant='96' capacidade='512' unidade='GB'
+Valor médio por Cliente.......162.5
+Menor valor gasto.............105.0
+Maior valor gasto.............220.0
+Quantidade de clientes que desistiram de comprar no mercado.......0
