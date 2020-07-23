@@ -12,3 +12,13 @@ CarrinhoGenerico
 Estoque
 Mouse, Armazenamento
 
+Adicionamos as classes:
+
+Relatorio
+Cliente !
+Estoque 3 métodos e capacidade
+Impressora
+Pedido !
+ProdutoBasico (Produto ficou abastrato para poder usar o to string das classes filhas)
+Separador
+Entregador
