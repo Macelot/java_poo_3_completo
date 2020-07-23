@@ -6,7 +6,7 @@ Produto,
 Armazenamento, 
 Carrinho) Atributos Construtores Getter Setter Métodos Objetos Herança
 
-java_poo_1
+java_poo_2
 Adicionamos as classes:
 ProdutoGenerico
 CarrinhoGenerico
